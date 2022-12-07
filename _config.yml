@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Angela Montemayor / Home"
+title                    : "bienvenidos"
 title_separator          : "-"
 name                     : &name "Angela Montemayor"
 description              : &description "CS Master's Student @ Stanford"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Angela Montemayor"
   avatar           : "profile.png"
-  bio              : "Master's Student in CS at Stanford, studying Computer Systems"
+  bio              : "Master's Student in CS at Stanford. amontema [at] cs [dot] stanford [dot] edu"
   location         : "Stanford, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
