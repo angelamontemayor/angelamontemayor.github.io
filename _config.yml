@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "bienvenidos"
+title                    : "bienvenidos!"
 title_separator          : "-"
 name                     : &name "Angela Montemayor"
 description              : &description "CS Master's Student @ Stanford"
