@@ -11,5 +11,5 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Stanford University, 2020
-* M.S. in Computer Science, Stanford University University, 2023 (expected)
+* B.S. in Computer Science + Minor in Creative Writing, Stanford University, 2020
+* M.S. in Computer Science, Stanford University, 2023 (expected)
