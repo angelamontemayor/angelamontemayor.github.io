@@ -9,6 +9,8 @@ redirect_from:
 
 I am a second-year master's student studying Computer Science at Stanford University. I am broadly interested in networked systems and performance, specifically within the context of large-scale cloud computing.
 
+**Life update! I am moving to Seattle to pursue my PhD in Computer Science at the University of Washington.**
+
 Publications
 ======
 Yuhan Deng, **Angela Montemayor**, Amit Levy, and Keith Winstein, "Computation-Centric Networking," The 21st ACM Workshop on Hot Topics in Networks (HotNets '22). Austin, Texas, 2022. [[pdf](http://angelamontemayor.github.io/files/hotnets22-final168[77].pdf)]
