@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year master's student studying Computer Science at Stanford University. I am broadly interested in networked systems and performance, specifically within the context of large-scale cloud computing.
-
-**Life update! I am moving to Seattle to pursue my PhD in Computer Science at the University of Washington.**
+I am a first-year PhD student in Computer Science at the Paul G. Allen School for Computer Science and Engineering at the University of Washington, where I am advised by Tom Anderson and Ratul Mahajan. Previously, I completed both my B.S. and M.S. in Computer Science at Stanford University, where I was advised by Keith Winstein. I am broadly interested in networked systems and performance, specifically within the context of large-scale cloud computing.
 
 Publications
 ======
