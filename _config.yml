@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "bienvenidos!"
+title                    : "hello!"
 title_separator          : "-"
 name                     : &name "Angela Montemayor"
-description              : &description "CS Master's Student @ Stanford"
+description              : &description "CS PhD Student at the University of Washington"
 url                      : https://angelamontemayor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "angelamontemayor/angelamontemayor.github.io"
