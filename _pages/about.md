@@ -9,7 +9,7 @@ redirect_from:
 
 I am a first year PhD student in Computer Science at the University of Washington, where I am advised by Tom Anderson and Ratul Mahajan. I am fortunate to have my research supported by the Wissner-Slivka Endowed Fellowship from the Allen School, as well as an ARCS Fellowship.
 
-Previously, I completed both my B.S. and M.S. in Computer Science at Stanford University, where I was advised by Keith Winstein. I am broadly interested in networked systems and performance, specifically within the context of large-scale cloud computing.
+Previously, I completed both my B.S. and M.S. in Computer Science at Stanford University where I was advised by Keith Winstein. I am broadly interested in networked systems and performance, specifically within the context of large-scale cloud computing.
 
 Publications
 ======
