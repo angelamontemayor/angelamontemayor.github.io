@@ -11,5 +11,7 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Computer Science, University of Washington (present)
+* M.S. in Computer Science, Stanford University, 2023
 * B.S. in Computer Science + Minor in Creative Writing, Stanford University, 2020
-* M.S. in Computer Science, Stanford University, 2023 (expected)
+
